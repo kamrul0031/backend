@@ -5,3 +5,14 @@ create folder : public/temp/.gitkeep // use .gitkeep for add those empty folders
 .gitingnore create & setup -> gitingnore genarator -> copy & paste
 
 cd src app.js constants.js index.js
+
+npm i -D nodemon
+
+cd src controllers db middlewares models routes utils
+
+npm i -D prettier
+
+create and setup .prettierrc
+
+create and setup .prettierignore
+
