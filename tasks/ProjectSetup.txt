@@ -1,2 +1,5 @@
 npm init -> setup
 
+create folder : public/temp/.gitkeep // use .gitkeep for add those empty folders into the git
+
+.gitingnore create & setup -> gitingnore genarator -> copy & paste
