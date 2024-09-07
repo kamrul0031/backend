@@ -1,0 +1,12 @@
+git init // initialization git in project
+
+git add . // add all files in git 
+
+git commit -m "add initial files msg" // git commit msg
+
+git branch -M main // rename the existing branch , which is defaltly (master)
+
+git remote add origin "https//github.com/username/repo.git" // set git origin 
+
+git push -u origin main // upstream to all code in git 
+
